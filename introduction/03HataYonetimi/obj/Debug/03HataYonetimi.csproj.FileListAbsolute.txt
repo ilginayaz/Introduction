@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\bin\Debug\03HataYonetimi.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\bin\Debug\03HataYonetimi.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\bin\Debug\03HataYonetimi.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\obj\Debug\03HataYonetimi.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\obj\Debug\03HataYonetimi.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\obj\Debug\03HataYonetimi.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\03HataYonetimi\obj\Debug\03HataYonetimi.pdb

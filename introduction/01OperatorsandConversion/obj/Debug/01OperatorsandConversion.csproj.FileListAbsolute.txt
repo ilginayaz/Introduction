@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\bin\Debug\01OperatorsandConversion.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\bin\Debug\01OperatorsandConversion.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\bin\Debug\01OperatorsandConversion.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\obj\Debug\01OperatorsandConversion.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\obj\Debug\01OperatorsandConversion.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\obj\Debug\01OperatorsandConversion.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\01OperatorsandConversion\obj\Debug\01OperatorsandConversion.pdb

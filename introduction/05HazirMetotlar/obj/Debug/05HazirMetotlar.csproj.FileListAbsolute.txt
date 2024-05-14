@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\bin\Debug\05HazirMetotlar.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\bin\Debug\05HazirMetotlar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\bin\Debug\05HazirMetotlar.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\obj\Debug\05HazirMetotlar.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\obj\Debug\05HazirMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\obj\Debug\05HazirMetotlar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\05HazirMetotlar\obj\Debug\05HazirMetotlar.pdb

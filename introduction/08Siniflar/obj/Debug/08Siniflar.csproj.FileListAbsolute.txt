@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\bin\Debug\08Siniflar.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\bin\Debug\08Siniflar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\bin\Debug\08Siniflar.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\obj\Debug\08Siniflar.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\obj\Debug\08Siniflar.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\obj\Debug\08Siniflar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\08Siniflar\obj\Debug\08Siniflar.pdb

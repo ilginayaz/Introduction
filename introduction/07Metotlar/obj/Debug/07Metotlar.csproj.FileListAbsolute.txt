@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\bin\Debug\07Metotlar.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\bin\Debug\07Metotlar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\bin\Debug\07Metotlar.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\obj\Debug\07Metotlar.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\obj\Debug\07Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\obj\Debug\07Metotlar.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\07Metotlar\obj\Debug\07Metotlar.pdb

@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\bin\Debug\04Donguler.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\bin\Debug\04Donguler.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\bin\Debug\04Donguler.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\obj\Debug\04Donguler.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\obj\Debug\04Donguler.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\obj\Debug\04Donguler.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\04Donguler\obj\Debug\04Donguler.pdb

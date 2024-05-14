@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\obj\Debug\calisma05.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\obj\Debug\calisma05.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\bin\Debug\calisma05.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\bin\Debug\calisma05.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\bin\Debug\calisma05.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\obj\Debug\calisma05.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\calisma05\obj\Debug\calisma05.pdb

@@ -1,0 +1,7 @@
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\bin\Debug\02KararYapilari.exe.config
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\bin\Debug\02KararYapilari.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\bin\Debug\02KararYapilari.pdb
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\obj\Debug\02KararYapilari.csproj.AssemblyReference.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\obj\Debug\02KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\obj\Debug\02KararYapilari.exe
+C:\Users\AltanAyaz\source\repos\Introduction\introduction\02KararYapilari\obj\Debug\02KararYapilari.pdb
