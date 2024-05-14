@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71DE3BB-75D6-469C-97C1-BF1533B0663A}|calisma05\\calisma05.csproj|c:\\users\\altanayaz\\source\\repos\\introduction\\introduction\\calisma05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C71DE3BB-75D6-469C-97C1-BF1533B0663A}|calisma05\\calisma05.csproj|solutionrelative:calisma05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6F10AC-B458-4AAE-8164-D8DDFFFD26F5}|calisma04\\calisma04.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6F10AC-B458-4AAE-8164-D8DDFFFD26F5}|calisma04\\calisma04.csproj|solutionrelative:calisma04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CDF35F-BEB6-4C6F-B6E1-BA6000CF1617}|calisma07\\calisma07.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CDF35F-BEB6-4C6F-B6E1-BA6000CF1617}|calisma07\\calisma07.csproj|solutionrelative:calisma07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CFB459-255D-4910-8456-B99B63875F73}|calisma06\\calisma06.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CFB459-255D-4910-8456-B99B63875F73}|calisma06\\calisma06.csproj|solutionrelative:calisma06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A80E9E2-4407-4FF7-A514-B830424D3324}|calisma03\\calisma03.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A80E9E2-4407-4FF7-A514-B830424D3324}|calisma03\\calisma03.csproj|solutionrelative:calisma03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58784BAF-91A7-435D-BB72-3A3EDC9362A0}|calisma02\\calisma02.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58784BAF-91A7-435D-BB72-3A3EDC9362A0}|calisma02\\calisma02.csproj|solutionrelative:calisma02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF531256-EDDE-4185-845F-6CF341500915}|calisma01\\calisma01.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF531256-EDDE-4185-845F-6CF341500915}|calisma01\\calisma01.csproj|solutionrelative:calisma01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08siniflar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|solutionrelative:08siniflar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301F3104-8A96-4E91-907B-93F3C7365095}|04Donguler\\04Donguler.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\04donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301F3104-8A96-4E91-907B-93F3C7365095}|04Donguler\\04Donguler.csproj|solutionrelative:04donguler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08siniflar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|solutionrelative:08siniflar\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08siniflar\\arabalar\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|solutionrelative:08siniflar\\arabalar\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08siniflar\\arabalar\\arabadonanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACE4AB3-2A3E-41F0-B107-81361FB6CDA7}|08Siniflar\\08Siniflar.csproj|solutionrelative:08siniflar\\arabalar\\arabadonanim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA24C768-D2F3-469D-8132-ED7D68570C5D}|07Metotlar\\07Metotlar.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\07metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA24C768-D2F3-469D-8132-ED7D68570C5D}|07Metotlar\\07Metotlar.csproj|solutionrelative:07metotlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54011D9A-0651-4DA0-BC92-93DF2BB0B8C3}|06Diziler\\06Diziler.csproj|C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\06diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54011D9A-0651-4DA0-BC92-93DF2BB0B8C3}|06Diziler\\06Diziler.csproj|solutionrelative:06diziler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|06Diziler||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma02\\Program.cs",
+              "RelativeDocumentMoniker": "calisma02\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma02\\Program.cs",
+              "RelativeToolTip": "calisma02\\Program.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswLkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:38.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma03\\Program.cs",
+              "RelativeDocumentMoniker": "calisma03\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma03\\Program.cs",
+              "RelativeToolTip": "calisma03\\Program.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:49.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma04\\Program.cs",
+              "RelativeDocumentMoniker": "calisma04\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma04\\Program.cs",
+              "RelativeToolTip": "calisma04\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswB4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:47:00.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma05\\Program.cs",
+              "RelativeDocumentMoniker": "calisma05\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma05\\Program.cs",
+              "RelativeToolTip": "calisma05\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA9wEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:47:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma06\\Program.cs",
+              "RelativeDocumentMoniker": "calisma06\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma06\\Program.cs",
+              "RelativeToolTip": "calisma06\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwA8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:49:28.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma07\\Program.cs",
+              "RelativeDocumentMoniker": "calisma07\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma07\\Program.cs",
+              "RelativeToolTip": "calisma07\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwFMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:49:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma01\\Program.cs",
+              "RelativeDocumentMoniker": "calisma01\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\calisma01\\Program.cs",
+              "RelativeToolTip": "calisma01\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:46:12.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Araba.cs",
+              "RelativeDocumentMoniker": "08Siniflar\\Araba.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Araba.cs",
+              "RelativeToolTip": "08Siniflar\\Araba.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAswIAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:31:42.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bmw.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Arabalar\\Bmw.cs",
+              "RelativeDocumentMoniker": "08Siniflar\\Arabalar\\Bmw.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Arabalar\\Bmw.cs",
+              "RelativeToolTip": "08Siniflar\\Arabalar\\Bmw.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:31:14.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArabaDonanim.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Arabalar\\ArabaDonanim.cs",
+              "RelativeDocumentMoniker": "08Siniflar\\Arabalar\\ArabaDonanim.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Arabalar\\ArabaDonanim.cs",
+              "RelativeToolTip": "08Siniflar\\Arabalar\\ArabaDonanim.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:30:46.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Program.cs",
+              "RelativeDocumentMoniker": "08Siniflar\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\08Siniflar\\Program.cs",
+              "RelativeToolTip": "08Siniflar\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwNkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:26:49.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\07Metotlar\\Program.cs",
+              "RelativeDocumentMoniker": "07Metotlar\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\07Metotlar\\Program.cs",
+              "RelativeToolTip": "07Metotlar\\Program.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAYwNABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:22:16.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "06Diziler",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\06Diziler\\06Diziler.csproj",
+              "RelativeDocumentMoniker": "06Diziler\\06Diziler.csproj",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\06Diziler\\06Diziler.csproj",
+              "RelativeToolTip": "06Diziler\\06Diziler.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-14T17:07:05.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\06Diziler\\Program.cs",
+              "RelativeDocumentMoniker": "06Diziler\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\06Diziler\\Program.cs",
+              "RelativeToolTip": "06Diziler\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowCEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:27:50.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\04Donguler\\Program.cs",
+              "RelativeDocumentMoniker": "04Donguler\\Program.cs",
+              "ToolTip": "C:\\Users\\AltanAyaz\\source\\repos\\Introduction\\introduction\\04Donguler\\Program.cs",
+              "RelativeToolTip": "04Donguler\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwDMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T18:52:43.143Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
